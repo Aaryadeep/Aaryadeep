@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aaryadeep
-- 👀 I’m interested in Android Development and Machine learning
-- 🌱 I’m currently learning Android App Development with kotlin
-- 💞️ I’m looking to collaborate on Android app Projects
+- 👀 I’m interested in Backend Development, Android Development and Machine learning
+- 🌱 I’m currently learning Backend Development with Express and MongoDB.
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: https://www.linkedin.com/in/aaryadeep21/
 
 <!---
